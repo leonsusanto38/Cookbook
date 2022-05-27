@@ -1,6 +1,6 @@
-# buku_resep
+# CookBook
 
-A new Flutter project.
+Cooking recipe book application with flutter and dart as language in visual studio code. Implementing Listview, Navigation, and Card as widget
 
 ## Getting Started
 
